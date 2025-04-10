@@ -1,3 +1,13 @@
+# Features
+- Add Food To Cart: Easily add your favorite food items to your cart.
+- Remove Food from Cart: Remove items you change your mind about.
+- Quantity Control: Increment or decrement the quantity of food items in your cart.
+- Total Price Calculation: Flavoro automatically calculates the total price based on your selections.
+- Responsive Design: Enjoy a seamless experience on various devices.
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
